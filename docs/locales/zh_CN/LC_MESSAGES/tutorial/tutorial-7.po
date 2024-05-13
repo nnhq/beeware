@@ -72,7 +72,7 @@ msgstr "这将更改 ``say_hello()`` 回调，使它在被调用时，会:"
 #: ../../tutorial/tutorial-7.rst:59 83ef2db9c558441e975326257fed14ef
 #, fuzzy
 msgid "make a GET request on the JSON placeholder API to obtain post 42;"
-msgstr "在 JSON 占位符 API 上发出 GET 请求，以获取职位 42；"
+msgstr "在 JSON 占位符 API 上发出 GET 请求，以获取帖子 42；"
 
 #: ../../tutorial/tutorial-7.rst:61 7870ca0e9bce444d9bf1137ee7edfbee
 #, fuzzy
@@ -189,7 +189,7 @@ msgstr "应用程序再次启动失败，因为已经安装了 ``httpx`` - 但�
 #: ../../tutorial/tutorial-7.rst:317 91d48bbb0b5f439caf0a416281530682
 #, fuzzy
 msgid "We have - but only in the development environment. Your development environment is entirely local to your machine - and is only enabled when you explicitly activate it. Although Briefcase has a development mode, the main reason you'd use Briefcase is to package up your code so you can give it to someone else."
-msgstr "我们有，但仅限于开发环境。你的开发环境完全在你的机器本地，只有当你明确激活它时才会启用。虽然公文包有开发模式，但使用公文包的主要原因是打包你的代码，这样你就可以把它交给别人。"
+msgstr "我们有，但仅限于安装在开发环境。你的开发环境完全在你的机器本地，只有当你明确激活它时才会启用。虽然公文包有开发模式，但使用公文包的主要原因是打包你的代码，这样你就可以把它交给别人。"
 
 #: ../../tutorial/tutorial-7.rst:322 8aa3be8efcac48748a6957016cc19786
 #, fuzzy
